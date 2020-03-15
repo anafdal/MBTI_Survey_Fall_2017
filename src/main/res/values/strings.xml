@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MBTI Survey</string>
+    <string name="title_activity_final_result">FinalResult</string>
+</resources>
